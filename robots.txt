@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ed77413dba.shangjiaedu.cn/sitemap.xml
